@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_deeee3c692ba3e3a967272631973c1844e6480d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d40baf42a874c02c78a0b7e91a059ebb1cd6ca07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5b8138b8399ac4f6303f7615cf66bcb3b86d538a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_478e537c4d785a06b9939aabd15998abacc198cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f0efd62df040d834a26de400fd40b5f8014e5e9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_81d81007b9ac6cbf71ef708fadd9cbeb4d046044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_44f3547849e256ccc5f0fedff171bafb01e7f1d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_bfdb0cde45a75769d0cec4e124c78ffa243d34a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_43b1a3e81eaf5543cd17e61c7eab2126130f9635\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3f0cc3ccbb769b3657456a643554830f397156c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_f30df1e1f4c2529458e4db83afac47f00f45371e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_df2ec65443c9d5c5429779ff0c4c8738c3fb398c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_0618d3b62228fde6b25d5b151a4f2a8a4f9722c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_8956c3626b504015372758f27c3db9e1f55cefd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_5199cd580bb3e0a57a01eab5f0418bdfb6b2322b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0108b7dde8372eff2ff31818e68af3c28aa9e5ca">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e01a1427bd8bd70a60bd3d64678a8ffa992a425e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7d796d9417ea8fb3c9857692da31a249500c20ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e7722d715d7da65f379eb24b185609c77154f81">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bd5ca7b8da5621df457ea2e6ca4e7ca65c3d3ff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\mayur\Desktop\Courses MS\Selected Topics in CS\assignment2\photonotes2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_9473af05090f6cf3249617e23172ce5059bf4aff\classes.dex" />
+    </item>
+
+</items>
